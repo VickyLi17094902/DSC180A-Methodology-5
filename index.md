@@ -1,5 +1,7 @@
 Vicky Li (yil164@ucsd.edu)
+
 Section: A05
+
 Mentor: Dr. Armin Schwartzman
 
 **What is the most interesting topic covered in your domain this quarter?**
