@@ -18,4 +18,5 @@ A potential change that our group would make is focusing more on grouped areas o
 
 **What other techniques would you be interested in using in your project?**
 
+
 I am interested in exploring machine learning techniques because we haven't able to use them this quarter yet, such as SVM, random forests, or neural networks to classify connectivity patterns. I also would like to experiment with dimensionality reduction techniques to better visualize the brain activity data and understand the underlying patterns. Another approach would be using time-series analysis methods to examine temporal changes in brain connectivity, such as dynamic functional connectivity analysis. That way we can understand the brain data but also leverage tools that align with both our domain knowledge and statistical expertise.
